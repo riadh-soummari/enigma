@@ -41,6 +41,8 @@ Par défaut, la machine Enigma est configurée comme suit :
 
 ## Lancer l'interface graphique Enigma
 
+- **Version de python utilisée** : 3.12
+
 
 ```bash
 python enigma_gui.py
