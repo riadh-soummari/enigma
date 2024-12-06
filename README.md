@@ -1,4 +1,4 @@
-# Machine Enigma avec Interface Graphique
+# Machine Enigma à 3 rotors
 
 ## Fonctionnalités
 
